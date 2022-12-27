@@ -1,0 +1,40 @@
+{
+  "EUR": [
+    {
+      "country": "FR",
+      "amount": 20,
+      "city": "Paris"
+    },
+    {
+      "country": "FR",
+      "amount": 11.4,
+      "city": "Lyon"
+    },
+    {
+      "country": "ES",
+      "amount": 8.9,
+      "city": "Madrid"
+    }
+  ],
+  "GBP": [
+    {
+      "country": "UK",
+      "amount": 12.2,
+      "city": "London"
+    }
+  ],
+  "FBP": [
+    {
+      "country": "UK",
+      "amount": 10.9,
+      "city": "London"
+    }
+  ],
+  "USD": [
+    {
+      "country": "US",
+      "amount": 100,
+      "city": "Boston"
+    }
+  ]
+}
